@@ -1,0 +1,5 @@
+# Ignore clasp local files
+.clasp.json
+
+# Ignore node specific files
+node_modules/
